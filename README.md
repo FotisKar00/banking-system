@@ -10,4 +10,3 @@ A simple banking system implemented in Java demonstrating OOP concepts.
 ## Technologies
 - Java
 - OOP (Inheritance, Polymorphism, Encapsulation)
-# banking-system
